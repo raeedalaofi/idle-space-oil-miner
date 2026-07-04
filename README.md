@@ -20,4 +20,4 @@ Use this URL in Google Play Console → **App content** → **Privacy policy**.
 
 ## Contact
 
-Privacy requests: [GitHub Issues](https://github.com/raeedalaofi/idle-space-oil-miner/issues)
+Privacy requests: [raeedalaofi@gmail.com](mailto:raeedalaofi@gmail.com) · [GitHub Issues](https://github.com/raeedalaofi/idle-space-oil-miner/issues)
